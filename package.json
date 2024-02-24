@@ -1,0 +1,23 @@
+{
+  "name": "employee-management-app",
+  "version": "1.0.0",
+  "description": "employee management application to keep list of members of medical staff by department ",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luqman Olawin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
